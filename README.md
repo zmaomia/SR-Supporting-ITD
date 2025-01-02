@@ -14,7 +14,7 @@ An implementation of manuscript "Super-resolution supporting individual tree det
 
 ### Data
 1. Orthophoto images
-2. ALS with 5 p/m^2 \\( p/ \text{m}^2 \\)
+2. ALS with 5 \\( p \/ \text{m}^2 \\)
 
 
 
