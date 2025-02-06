@@ -11,7 +11,7 @@ An implementation of manuscript "Super-resolution supporting individual tree det
 
 
 
-### Dependency
+### Installation and Dependency
 
 
 
