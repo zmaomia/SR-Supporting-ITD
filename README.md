@@ -21,7 +21,7 @@ An implementation of manuscript "Super-resolution supporting individual tree det
 3. Some experimental data are availble in Google drive. （Data to be uploaded） 
 
 
-### Test ITD model
+### Run ITD model
 
 
 
