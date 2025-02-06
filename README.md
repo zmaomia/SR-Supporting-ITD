@@ -1,14 +1,10 @@
 # SR-Supporting-ITD
+
+### Introduction
 An implementation of manuscript "Super-resolution supporting individual tree detection and canopy stratification using half-meter aerial data" using python 3.11.
 
 
 ### Overall workflow
-
-
-
-
-### Introduction
-
 
 
 ### Installation and Dependency
