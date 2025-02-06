@@ -13,7 +13,7 @@ An implementation of manuscript "Super-resolution supporting individual tree det
 
 ### Data preperation
 1. Orthophoto images (Open resource data) 
-2. ALS with 5 p/m², convert ALS to CHM model
+2. ALS with 5 points/m², convert ALS to CHM model
 3. Some experimental data are availble in Google drive. （Data to be uploaded） 
 
 
