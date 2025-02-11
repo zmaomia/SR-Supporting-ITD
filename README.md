@@ -7,7 +7,7 @@ An implementation of manuscript "Super-resolution supporting individual tree det
 ### Overall workflow
 
 
-### Installation and Dependency
+### Installation and dependency
 
 
 
