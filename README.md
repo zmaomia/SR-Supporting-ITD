@@ -16,8 +16,8 @@ An implementation of manuscript "Super-resolution supporting individual tree det
 
    
    
-1. Orthophoto images (Open resource data) [Orthophoto](https://asiointi.maanmittauslaitos.fi/karttapaikka/tiedostopalvelu/ortoilmakuva?lang=en) 
-2. ALS with 5 points/m², convert ALS to CHM model [ALS](https://www.maanmittauslaitos.fi/laserkeilausaineistot) 
+1. Orthophoto images (Open resource data) are available at [Orthophoto](https://asiointi.maanmittauslaitos.fi/karttapaikka/tiedostopalvelu/ortoilmakuva?lang=en) 
+2. ALS with 5 points/m², convert ALS to CHM model. ALS data is available at [ALS](https://www.maanmittauslaitos.fi/laserkeilausaineistot) 
 3. Some experimental data are availble in Google drive. （Data to be uploaded） 
 
 
