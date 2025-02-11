@@ -33,6 +33,6 @@ An implementation of manuscript "Super-resolution supporting individual tree det
 
 
 
-### Visualization of results
+### Visualization results
 
 
