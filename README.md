@@ -21,7 +21,11 @@ An implementation of manuscript "Super-resolution supporting individual tree det
 
 
 
-### Test canopy stratification
+### Run canopy stratification
+
+
+
+### Test SR module
 
 
 
