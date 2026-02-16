@@ -32,7 +32,7 @@ An implementation of manuscript "Super-resolution supporting individual tree det
 
 ### Train or Test SR module
 
-[Codes]([https://github.com/zmaomia/Training-Data-Preperation-Shapefile/blob/main/README.md](https://github.com/zmaomia/SR-Supporting-ITD/tree/main/SR)
+[Codes](https://github.com/zmaomia/SR-Supporting-ITD/tree/main/SR)
 
 
 ### Visualization results
