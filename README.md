@@ -20,8 +20,6 @@ An implementation of manuscript "Super-resolution supporting individual tree det
 2. ALS with 5 points/m², convert ALS to CHM model. ALS data is available at [ALS](https://www.maanmittauslaitos.fi/laserkeilausaineistot) 
 3. Scripts to prepare data for model training and testing. [Data Preperation](https://github.com/zmaomia/Training-Data-Preperation-Shapefile/blob/main/README.md)
 
-### Run SR module
-
 
 
 ### Run ITD model
@@ -32,8 +30,9 @@ An implementation of manuscript "Super-resolution supporting individual tree det
 
 
 
-### Test SR module
+### Train or Test SR module
 
+[Codes]([https://github.com/zmaomia/Training-Data-Preperation-Shapefile/blob/main/README.md](https://github.com/zmaomia/SR-Supporting-ITD/tree/main/SR))
 
 
 ### Visualization results
