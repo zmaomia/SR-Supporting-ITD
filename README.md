@@ -27,8 +27,8 @@ An implementation of manuscript "Super-resolution supporting individual tree det
 
 
 ### Run canopy stratification
-
-
+The input is the individual tree detection result, including the estimated tree height and crown diameter.
+[Stratification](https://github.com/zmaomia/SR-Supporting-ITD/blob/main/canopy_stratification.py)
 
 ### Train or Test SR module
 
