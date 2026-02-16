@@ -1,3 +1,4 @@
+# Canopy stratification based on tree height and crown diameter
 import geopandas as gpd
 from shapely.geometry import Polygon
 import numpy as np
