@@ -1,0 +1,16 @@
+path: /Datasets/rgbnc_32_128_X4/ # dataset root dir
+train: images/train/
+val: images/val/
+#test: images/test/
+
+
+# number of classes
+nc: 4
+ch: 5
+
+# class names
+names: 
+  0: pine
+  1: spruce
+  2: birch
+  3: aspen
